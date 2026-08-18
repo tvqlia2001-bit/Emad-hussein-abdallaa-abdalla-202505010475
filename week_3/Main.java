@@ -7,7 +7,7 @@ public class Main {
         Person p3 = new Student("Ahmed", "S001");
 
         
-        p1.introduce();
+        p1.-introduce();
         p2.introduce();
         p3.introduce();
     }
